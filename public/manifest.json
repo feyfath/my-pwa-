@@ -1,0 +1,10 @@
+{
+    "name":"fey-app",
+    "short_name":"fey",
+    "description":"feys good app",
+    "theme_color": "#fefefe",
+    "background_color": "#333333",
+    "start_url":"/index.html",
+    "display": "standalone",
+    "orientation": "portrait"
+}
